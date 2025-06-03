@@ -1,0 +1,7 @@
+echo $years=730 days
+
+echo $years=104 weeks
+
+echo $years=17520 hours
+
+
